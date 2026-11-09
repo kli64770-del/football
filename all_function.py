@@ -62,8 +62,3 @@ def restart_team(team_id):
 
 
 
-
-    
-
-
-
